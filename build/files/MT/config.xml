@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+	<resources>%AppData%/mytanks.client.Standlone/Local Store/cache/resources/</resources>
+	<socket>%AppData%/MyTanks Client/socket.cfg</socket>
+	<client_path>%AppData%/MyTanks Client/</client_path>
+</config>
